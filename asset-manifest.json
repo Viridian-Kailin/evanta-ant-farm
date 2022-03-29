@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/antfarm/static/css/main.9ee8d64e.css",
+    "main.js": "/antfarm/static/js/main.22823dc1.js",
+    "static/js/787.d285d1c9.chunk.js": "/antfarm/static/js/787.d285d1c9.chunk.js",
+    "index.html": "/antfarm/index.html",
+    "main.9ee8d64e.css.map": "/antfarm/static/css/main.9ee8d64e.css.map",
+    "main.22823dc1.js.map": "/antfarm/static/js/main.22823dc1.js.map",
+    "787.d285d1c9.chunk.js.map": "/antfarm/static/js/787.d285d1c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ee8d64e.css",
+    "static/js/main.22823dc1.js"
+  ]
+}
