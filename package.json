@@ -1,7 +1,7 @@
 {
   "name": "antfarm",
   "version": "0.1.0",
-  "homepage": "https://meomix.github.io/antfarm/",
+  "homepage": "https://evanta-dev-antfarm.herokuapp.com/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.8.1",
